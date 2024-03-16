@@ -3,12 +3,10 @@ This is my code repository for my Engineering Thesis. The goal of the thesis was
 
 ## Dataset
 Data was acquired from a wind farm based in La Haute-Borne, France. <br />
-To acquire data used for this project:
-1. Download .CSV file from this website:
+To acquire data used for this project, download .CSV file from this website:
 ```
 https://opendata-renewables.engie.com/explore/index
 ```
-2. 
 
 ## Abbreviations
 Gb1t_SVM - Gearbox bearing temperature Support vector machine <br />
